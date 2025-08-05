@@ -8,9 +8,6 @@ Scripts simplificados para detectar y auditar plugins de WordPress con reportes 
 - **`verificar_plugins.py`** - Script que verifica versiones y vulnerabilidades
 - **`generar_reporte_html.py`** - Genera reporte HTML visual
 - **`dominios.txt`** - Lista de dominios a analizar
-- **`plugins_detectados.json`** - Resultados de detección de plugins
-- **`reporte_completo.json`** - Reporte completo con versiones y vulnerabilidades
-- **`reporte_wordpress.html`** - Reporte visual en HTML
 
 ## 🚀 Uso Rápido
 
@@ -197,4 +194,5 @@ Para problemas o preguntas:
 - Confirma que los sitios usen WordPress
 - Revisa la configuración de la API key
 - Consulta los archivos de log generados 
+
 
